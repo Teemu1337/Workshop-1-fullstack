@@ -35,7 +35,7 @@ By the end of this workshop, you will have built a simple, responsive personal w
    - A main heading (`<h1>`) with your name or website title
    - A subheading (`<h2>`) with a tagline
    - A paragraph (`<p>`) introducing yourself
-   - An image (`<img>`) - you can our own picture here
+   - An image (`<img>`) - you can use our own picture here
 
 **Resources:**
 - [MDN HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
