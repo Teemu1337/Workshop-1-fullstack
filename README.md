@@ -195,4 +195,4 @@ This starter package includes:
 4. **.gitignore** - Basic gitignore for web projects
 5. **SOLUTIONS.md** - Example solutions for instructors/students who get stuck
 
-Good luck and have fun!  🚀
+Good luck and have fun!!  🚀
